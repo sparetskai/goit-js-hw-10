@@ -18,4 +18,5 @@
 @import url('./footer.css');
 
 /* Components style */
-@import url('./timer.css')
+@import url('./timer.css');
+@import url('./snackbar.css');
